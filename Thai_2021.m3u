@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1, CH3 HD
+http://27.254.130.64/live01/ch0.m3u8?p=m3u8
+#EXTINF:-1, CH5 HD
+http://27.254.130.64/live01/ch6.m3u8?p=m3u8
+#EXTINF:-1, CH7 HD
+http://27.254.130.64/live01/ch1.m3u8?p=m3u8
+#EXTINF:-1, MCOT HD
+http://27.254.130.64/live02/ch7.m3u8?p=m3u8
+#EXTINF:-1, ThaiPBS
+http://27.254.130.64/live02/ch0.m3u8?p=m3u8
+#EXTINF:-1, AmarinTV
+http://27.254.130.64/live01/ch13.m3u8?p=m3u8
+#EXTINF:-1, ThairathTV
+http://27.254.130.64/live01/ch9.m3u8?p=m3u8
+#EXTINF:-1, PPTV HD
+http://27.254.130.64/live01/ch2.m3u8?p=m3u8
+#EXTINF:-1, WorkpointTV
+http://27.254.130.64/live01/ch7.m3u8?p=m3u8
+#EXTINF:-1, One HD
+http://27.254.130.64/live01/ch10.m3u8?p=m3u8
+#EXTINF:-1, Mono29
+http://27.254.130.64/live01/ch3.m3u8?p=m3u8
+#EXTINF:-1, CH3 SD
+http://27.254.130.64/live02/ch3.m3u8?p=m3u8
+#EXTINF:-1, M Channel
+http://27.254.130.64/live01/ch19.m3u8?p=m3u8
+#EXTINF:-1, CH8
+http://27.254.130.64/live02/ch2.m3u8?p=m3u8
+#EXTINF:-1, CH2
+http://27.254.130.64/live01/ch15.m3u8?p=m3u8
+#EXTINF:-1, CH3 Family
+http://27.254.130.64/live02/ch1.m3u8?p=m3u8
+#EXTINF:-1, Gang Cartoon
+http://27.254.130.64/live01/ch17.m3u8?p=m3u8
+#EXTINF:-1, Cartoon Club
+http://27.254.130.64/live01/ch16.m3u8?p=m3u8
+#EXTINF:-1, GMM25
+http://27.254.130.64/live01/ch11.m3u8?p=m3u8
+#EXTINF:-1, NationTV
+http://27.254.130.64/live01/ch8.m3u8?p=m3u8
+#EXTINF:-1, NOW26
+http://27.254.130.64/live01/ch12.m3u8?p=m3u8
+#EXTINF:-1, VoiceTV
+http://27.254.130.64/live02/ch6.m3u8?p=m3u8
+#EXTINF:-1, Spring News
+http://27.254.130.64/live02/ch5.m3u8?p=m3u8
+#EXTINF:-1, Bright TV
+http://27.254.130.64/live99/47/brighttv.m3u8?p=m3u8
+#EXTINF:-1, NBT
+http://27.254.130.64/live01/ch14.m3u8?p=m3u8
+#EXTINF:-1, TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=m3u8
+#EXTINF:-1, True4U
+http://27.254.130.64/live01/ch4.m3u8?p=m3u8
+#EXTINF:-1, New)TV
+http://27.254.130.64/live99/47/newtv.m3u8?p=m3u8e
+#EXTINF:-1, MCOT Family
+http://27.254.130.64/live02/ch4.m3u8?p=m3u8
+#EXTINF:-1, TPTV
+http://27.254.130.64/live99/47/tptv.m3u8?p=m3u8
+#EXTINF:-1, Z Nang
+http://27.254.130.64/live99/46/zeenung.m3u8?p=m3u8
+#EXTINF:-1, CAT Channel
+http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=m3u8
+#EXTINF:-1, YOU Channel
+http://27.254.130.64/live99/46/youchannel.m3u8?p=m3u8
+#EXTINF:-1, Money Channel
+http://27.254.130.64/live99/46/money.m3u8?p=m3u8
+#EXTINF:-1, Arirang News
+http://27.254.130.64/live03/ch0.m3u8?p=m3u8
+#EXTINF:-1, Thai CCTV
+http://27.254.130.64/live99/46/tcctv.m3u8?p=m3u8
+#EXTINF:-1, Aljazeera
+http://27.254.130.64/live03/ch2.m3u8?p=m3u8
+#EXTINF:-1, NHK World
+http://27.254.130.64/live03/ch1.m3u8?p=m3u8
