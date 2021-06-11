@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <head><title>NBT2HD : EURO 2020</title></head>
-<body>
+<link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+		    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+
 <center>
-<h2>NBT</h2>
-<iframe id="player" src="https://truebox.tk/hd-nbt.euro2020.m3u8" style="width: 960px; height: 540px;" allowfullscreen="true"></iframe>
+		    <video id="player" class="video-js vjs-default-skin my-4 mx-auto" controls preload="auto" style="border-radius: 10px;" >
+
+		        <source src="https://truebox.tk/hd-nbt.euro2020.m3u8" type="application/x-mpegURL" />
+		    </video>
 </center>
-</body>
+		    <script>
+		        var player = videojs('#player');
+		        player.play();
+		    </script>
+
 </html>
