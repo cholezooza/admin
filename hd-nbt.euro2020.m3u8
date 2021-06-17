@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION="1280x720"
-https://freelive.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8
+https://live-cdn.allhilight.com/abr_live/new18/live/new18_480p/chunks.m3u8
